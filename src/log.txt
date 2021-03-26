@@ -1,0 +1,57 @@
+2021-03-15 12:10:24 WARN  UserService:39 - Login failed!
+2021-03-15 12:11:00 WARN  UserService:39 - Login failed!
+2021-03-15 12:11:44 WARN  UserService:39 - Login failed!
+2021-03-15 12:11:54 WARN  UserService:39 - Login failed!
+2021-03-15 12:12:19 WARN  UserService:39 - Login failed!
+2021-03-15 12:21:24 WARN  UserService:40 - Login failed!
+2021-03-15 12:46:49 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:50:26 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:54:21 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:54:32 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:56:51 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:58:20 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:58:40 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:59:01 INFO  UserService:37 - User loged in as: farid
+2021-03-15 12:59:51 WARN  UserService:41 - Login failed!
+2021-03-15 13:00:59 INFO  UserService:60 - New user registered as: null
+2021-03-15 13:01:24 INFO  UserService:60 - New user registered as: null
+2021-03-15 13:01:44 INFO  UserService:60 - New user registered as: null
+2021-03-15 13:05:00 INFO  UserService:37 - User loged in as: ahmad
+2021-03-15 13:10:45 INFO  UserService:37 - User loged in as: ahmad
+2021-03-15 13:11:18 WARN  UserService:41 - Login failed!
+2021-03-15 13:11:31 INFO  UserService:37 - User loged in as: ahmad
+2021-03-15 13:11:51 INFO  UserService:37 - User loged in as: jamal
+2021-03-15 14:52:08 INFO  UserService:35 - User loged in as: jamal
+2021-03-15 23:28:50 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:19:33 WARN  UserService:59 - Unauthorized attemp to submit a reimbursement request.
+2021-03-16 14:19:33 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:20:51 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:21:55 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:21:56 INFO  UserService:52 - Reimbursement request submitted by : jamal
+2021-03-16 14:23:39 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:23:39 INFO  UserService:52 - Reimbursement request submitted by : jamal
+2021-03-16 14:27:29 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:27:29 WARN  UserService:185 - Unauthorized attemp to access reimbursement.
+2021-03-16 14:28:57 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:28:57 WARN  UserService:185 - Unauthorized attemp to access reimbursement.
+2021-03-16 14:29:32 INFO  UserService:35 - User loged in as: ahmad
+2021-03-16 14:29:59 INFO  UserService:35 - User loged in as: ahmad
+2021-03-16 14:30:25 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:30:25 WARN  UserService:185 - Unauthorized attemp to access reimbursement.
+2021-03-16 14:32:23 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:34:00 INFO  UserService:35 - User loged in as: jamal
+2021-03-16 14:34:00 WARN  UserService:185 - Unauthorized attemp to access reimbursement.
+2021-03-16 14:34:46 INFO  UserService:35 - User loged in as: ahmad
+2021-03-16 14:34:47 INFO  UserService:208 - Reimbursement request approved. Request ID: 1
+2021-03-16 14:36:15 INFO  UserService:35 - User loged in as: ahmad
+2021-03-16 14:36:35 INFO  UserService:35 - User loged in as: ahmad
+2021-03-16 14:38:04 INFO  UserService:35 - User loged in as: ahmad
+2021-03-17 19:50:12 INFO  UserService:35 - User loged in as: ahmad
+2021-03-18 06:56:46 INFO  UserService:35 - User loged in as: ahmad
+2021-03-18 10:01:47 INFO  UserService:35 - User loged in as: ahmad
+2021-03-18 10:03:46 INFO  UserService:35 - User loged in as: ahmad
+2021-03-18 10:05:11 INFO  UserService:35 - User loged in as: ahmad
+2021-03-18 11:13:51 INFO  UserService:35 - User loged in as: ahmad
+2021-03-18 18:53:19 INFO  UserService:58 - New user registered as: null
+2021-03-18 18:53:19 INFO  UserService:35 - User loged in as: ahmad
+2021-03-19 01:06:55 INFO  UserService:35 - User loged in as: ahmad
