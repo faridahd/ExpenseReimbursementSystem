@@ -21,6 +21,7 @@ Upload reciept file to be done
 
 # Getting Started
 Use unix to clone the project:
+
 git clone https://github.com/faridahd/ExpenseReimbursementSystem.git
 
 Or you download the project as zip folder from this repository
